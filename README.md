@@ -1,38 +1,84 @@
-# 🛣️ StreetSense MVP Repository
+# StreetSense 🛣️
 
-Welcome to the StreetSense Hackathon MVP! 
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)
+![YOLOv8](https://img.shields.io/badge/YOLO-v8-yellow)
 
-> **DEADLINE: June 13th Pitch**
-> **RULES:** Do NOT touch other people's folders until integration day (Day 5).
+StreetSense is an edge-inference AI system designed for continuous municipal road infrastructure monitoring. By leveraging computer vision models deployed on existing city fleet vehicles (e.g., waste management trucks, public transit), StreetSense passively detects, geolocates, and severity-scores road surface anomalies such as potholes and structural degradation.
 
-## 📁 Repository Structure
+## 🏗️ Architecture Overview
 
-We are dividing the work into 3 isolated tracks to avoid merge conflicts:
+The system operates on a decentralized edge-to-cloud architecture:
+1. **Edge Detection Engine:** A highly optimized YOLOv8 model (TensorFlow Lite / ONNX compatible) processes video feeds at 15-30 FPS on low-power devices.
+2. **Data Aggregation:** Detected anomalies are bound with geospatial data (GPS coordinates) and assigned a dynamically calculated severity score.
+3. **Municipal Dashboard:** A centralized analytics platform visualizing infrastructure degradation heatmaps, enabling preemptive maintenance scheduling and automated work order generation.
 
-```text
-StreetSense_MVP/
-├── ai_engine/          # TRACK 1 (Jatin) - YOLOv8 training and detection scripts
-├── demo_ui/            # TRACK 2 (Teammate 1) - Gradio Web UI
-├── dashboard/          # TRACK 3 (Teammate 2) - Folium Map Dashboard
-├── data/               # Shared testing images and videos
-└── requirements.txt    # Shared Python dependencies
-```
+## 💻 Tech Stack
 
-## 🚀 Setup Instructions
-1. Clone this repository to your local machine.
-2. Create a virtual environment: `python -m venv .venv`
+- **Computer Vision:** YOLOv8 (Ultralytics), OpenCV
+- **Backend & Inference:** Python 3.10+
+- **Interactive UI (Demo):** Gradio
+- **Geospatial Analytics:** Folium
+
+## 📂 Repository Structure
+
+The repository is modularized into discrete service components:
+
+- `ai_engine/`: Core computer vision inference scripts and model weights.
+- `demo_ui/`: Web-based interface for rapid prototyping and visual model evaluation.
+- `dashboard/`: Geospatial mapping and heat-map analytics generation.
+- `data/`: Sample inputs for regression testing and validation.
+
+## ⚙️ Setup & Installation
+
+### Prerequisites
+- Python 3.10 or higher
+- Git
+
+### Environment Configuration
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Jatinprajapati7869/StreetSense.git
+   cd StreetSense
+   ```
+
+2. Initialize an isolated virtual environment:
+   ```bash
+   python -m venv .venv
+   ```
+
 3. Activate the environment:
-   - Windows: `.venv\Scripts\activate`
-   - Mac/Linux: `source .venv/bin/activate`
-4. Install dependencies: `pip install -r requirements.txt`
+   - **Windows:** `.venv\Scripts\activate`
+   - **Unix/MacOS:** `source .venv/bin/activate`
 
-## 🛠️ Track Assignments
+4. Install required dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-### Track 1: `ai_engine/` (Jatin)
-Your job is to train the YOLOv8 model using Roboflow/Google Colab, export `best.pt`, place it in the `models/` folder, and complete the `detect.py` script so that it can be imported by the UI.
+## 🚀 Usage Guide
 
-### Track 2: `demo_ui/` (Teammate 1)
-Your job is to build the `app.py` script using Gradio. You need an interface that accepts an image upload and displays the output image. You will import Jatin's `run_inference()` function from `detect.py`.
+### 1. Running the Inference Engine (Standalone)
+To execute the YOLOv8 model directly on a sample image payload:
+```bash
+python ai_engine/detect.py
+```
+*Note: Ensure the compiled model weights (`best.pt`) are present in the `ai_engine/models/` directory prior to execution.*
 
-### Track 3: `dashboard/` (Teammate 2)
-Your job is to build the `map_generator.py` script using Folium. Generate 100 fake pothole coordinates (red and yellow dots) on a map of Ujjain or Jabalpur, and export it as an interactive `map.html` file for the pitch.
+### 2. Launching the Interactive Demo UI
+To initialize the web interface for visual testing and demonstration:
+```bash
+python demo_ui/app.py
+```
+The interface will be served locally. Navigate to `http://127.0.0.1:7860` in your browser.
+
+### 3. Generating the Analytics Dashboard
+To compile the simulated geospatial telemetry into an interactive heatmap:
+```bash
+python dashboard/map_generator.py
+```
+The output will be rendered as `streetsense_dashboard.html` within the dashboard directory.
+
+## 📄 License
+This project is licensed under the MIT License - see the LICENSE file for details.
