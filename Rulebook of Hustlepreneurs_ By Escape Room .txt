@@ -1,0 +1,291 @@
+﻿HUSTLEPRENEURS: By Escape Room
+(Organized by Tesseract Interest Group)
+
+
+Table of Contents
+1. Introduction
+2. Important Resources
+3. General Rules
+4. Eligibility Criteria
+5. Team Composition
+6. Competition Structure
+7. Submission Guidelines
+8. Judging & Evaluation Criteria
+9. Rewards & Recognition
+10. Tournament Rules
+11. Code of Conduct
+12. Disciplinary Actions
+________________
+1. Introduction
+HUSTLEPRENEURS: By Escape Room is a dynamic entrepreneurial challenge designed as a strategic extension of Escape Room, combining the intensity of problem-solving with the innovation of the startup ecosystem.
+The event is structured to test participants not only on their business ideas but also on their ability to think critically, perform under pressure, and develop practical solutions in challenging situations.
+The competition begins with an online submission round where teams present their startup idea through a structured pitch deck. Shortlisted teams then advance to "The Escape", a high-pressure startup case-study round inspired by the Escape Room concept, where participants must navigate real-world business crises and develop the most practical and impactful escape strategy within a limited timeframe.
+The final stage, "The Pitch", brings together the top-performing teams to present their startup ventures before an expert judging panel through a professional startup pitch.
+Teams will be evaluated on innovation, feasibility, entrepreneurial understanding, strategic thinking, presentation skills, execution readiness, and market potential.
+The objective of the event is to create a platform where innovation, leadership, teamwork, creativity, and entrepreneurship intersect while providing participants with an opportunity to transform ideas into impactful ventures.
+________________
+
+
+2. Important Resources
+Official Pitch Deck Template
+All participating teams are required to prepare and submit their pitch deck strictly using the official template provided by the organizing team.
+Official Pitch Deck Template: 
+https://docs.google.com/presentation/d/1Jkt-4Cc3h7HyNeFHD1nbvoJmyYtIuACmWsGVNVGD0YE/edit?usp=sharing
+(You can edit after making a copy of it)
+Important Notice:
+* Teams must strictly follow the prescribed structure and format.
+* All mandatory sections mentioned in the template must be completed.
+* Teams may enhance visual design and branding but must not alter the fundamental structure of the template.
+* Failure to follow the official template may result in:
+   * Rejection during screening
+   * Deduction of evaluation marks
+   * Disqualification from further rounds
+   * Submission not being considered for shortlisting
+The organizing committee reserves the right to reject any submission that does not comply with the official template requirements.
+Official Communication Channel
+Whatsapp Group Link: https://chat.whatsapp.com/DbLQVdLK5aZ6uywR4NkARE
+Event Contact
+Event Head: Khushi Upadhyay-  25f3004801@ds.study.iitm.ac.in
+________________
+
+
+3. General Rules
+* All participants must register through the official Paradox website.
+* Participants must follow all instructions provided by organizers and judges.
+* The event follows a multi-stage elimination format.
+* The organizing committee reserves the right to modify schedules, formats, rules, or event structure if required.
+* Any disputes must be reported immediately to the organizing team.
+* The decision of the judges and organizing committee shall be final and binding in all cases.
+* By registering, participants agree to comply with all event rules and regulations.
+* Any unforeseen situations not covered in this rulebook will be handled at the discretion of the organizing committee.
+* At least one Participant from the team must bring a Laptop.
+________________
+
+
+4. Eligibility Criteria
+* Participation is open only to students of the IIT Madras BS Degree Program.
+* Students from all levels are eligible to participate.
+* Participants must register within the official registration timeline.
+* Incomplete registrations will not be considered.
+* The organizers reserve the right to verify participant information and disqualify entries that do not meet eligibility requirements.
+________________
+
+
+5. Team Composition
+* Team Size
+   * Minimum Team Size: 2 Members
+   * Maximum Team Size: 4 Members
+* Team Rules
+   * Each team must appoint a Team Leader.
+   * A participant may be part of only one team.
+   * Team composition cannot be altered after the registration deadline without approval from the organizing committee.
+   * If a team qualifies for the offline rounds, a minimum of 2 team members must be physically present at the venue.
+   * Teams failing to satisfy the minimum attendance requirement may be disqualified.
+________________
+
+
+6. Competition Structure
+
+Stage 1: Online Submission Round
+1. Reg Start: 4th June | 12:00 AM 
+2. Reg End: 9 June | 11:59 PM
+3. Mode: Online
+4. Format: Teams are required to submit their startup pitch deck through the registration form.
+The pitch deck should clearly communicate:
+1. Problem Statement
+2. Vision & Mission
+3. Proposed Solution
+4. Market Opportunity
+5. Target Audience
+6. Competitive Analysis
+7. Business Model
+8. Revenue Strategy
+9. Go-To-Market Strategy
+10. Scalability Potential
+11. Execution Roadmap
+12. Team Information
+Screening Process- Evaluation will be based on:
+1. Innovation
+2. Creativity
+3. Problem-Solution Fit
+4. Market Potential
+5. Feasibility
+6. Business Understanding
+7. Scalability
+8. Presentation Quality
+Result: Top 24 Shortlisted teams will advance to Stage 2. They will be notified via mail by 7th June.
+
+Stage 2: The Escape (Case Study Challenge)
+
+1. Date & Time: 13th June | 2:30 PM
+2. Venue: ICSR Hall III
+3. Format: Inspired by the Escape Room concept, this round places teams into realistic startup and business crisis scenarios.
+Participants must:
+* Analyze the challenge
+* Identify critical issues
+* Develop a strategic response
+* Create the most practical escape plan
+* Present their solution before the judging panel
+Possible scenarios may include:
+* Startup failure situations
+* Funding challenges
+* Market competition
+* Customer retention issues
+* Product launch failures
+* Business scaling challenges
+* Operational bottlenecks
+Evaluation Parameters:
+* Problem Analysis
+* Strategic Thinking
+* Innovation
+* Practicality
+* Teamwork
+* Feasibility
+* Communication Skills
+* Execution Strategy
+Result: Top 19 highest-performing teams will advance to Stage 3, One team who will be the winner of Escape Room will directly become one of the Top 20 Finalists participating in Stage 3. 
+
+
+Stage 3: The Pitch (Grand Finals)
+1. Date & Time: 13th June | 4:00 PM
+2. Venue: ICSR Hall III
+3. Format: Finalist teams will present their startup idea before the judging panel through a professional startup pitch.
+Teams must demonstrate:
+* Vision
+* Innovation
+* Business Model
+* Market Opportunity
+* Scalability
+* Execution Strategy
+* Competitive Advantage
+* Growth Potential
+Q&A Session- Judges may question teams regarding:
+* Feasibility
+* Revenue Model
+* Market Validation
+* Competitive Landscape
+* Expansion Plans
+* Execution Readiness
+Winning Criteria: The Top 5 Teams will be declared winners based on overall performance across the competition.
+________________
+
+
+7. Submission Guidelines
+Pitch Deck Submission
+* Teams must submit a Google Drive link containing their pitch deck.
+* The submitted link must be set to "Anyone with the link can view"
+Failure to provide viewing access may result in rejection of the submission.
+Pitch Deck Compliance
+The pitch deck submitted by participating teams must strictly adhere to the official template provided by the organizers.
+Any submission that:
+* Does not follow the prescribed format
+* Omits mandatory sections
+* Uses an entirely different structure
+* Fails to comply with template requirements
+may be:
+* Rejected during screening
+* Not considered for evaluation
+* Disqualified from further rounds
+The decision of the organizing committee regarding template compliance shall be final and binding.
+Originality Policy
+* All ideas must be original.
+* Plagiarism is strictly prohibited.
+* Teams may build upon existing industries or concepts but must clearly demonstrate innovation and differentiation.
+* Any form of copied or fraudulent submission will result in immediate disqualification.
+________________
+
+
+8. Judging & Evaluation Criteria
+What Judges Look For
+1.  Team Strength 
+   1. Do the founders have the right skills? 
+   2. Is there a clear division of responsibilities? 
+   3. Can the team realistically execute the idea? 
+   4. Does the team demonstrate passion, commitment, and leadership? 
+
+   2. Idea Uniqueness & Technical Innovation 
+   1. Is the problem worth solving? 
+   2. How unique is the solution? 
+   3. What technology or innovation is being used? 
+   4. Is there a clear competitive advantage? 
+   5. Can the solution be built and maintained effectively? 
+
+      3. Market Opportunity & Growth Strategy 
+      1. How large is the target market? 
+      2. Is there a clear customer need? 
+      3. What is the business and revenue model? 
+      4. How will customers be acquired? 
+      5. Can the startup scale regionally, nationally, or globally?
+
+
+________________
+
+
+9. Rewards & Recognition
+The Top 5 teams will be recognized as official winners of HUSTLEPRENEURS.
+      * Each Winning Team Receives: ₹10,000 Token Grant
+
+      * Startup Growth Support Package: Total support worth up to $100,000 USD per selected startup, including:
+         * 1 Year of Product Development Support
+         * Marketing & Branding Assistance
+         * Go-To-Market (GTM) Strategy Support
+         * Business Mentorship & Startup Guidance
+         * Funding & Investor Readiness Support
+
+            * Additional Benefits
+            * Winner Recognition at Paradox'26
+            * Certificates of Achievement
+            * Startup Networking Opportunities
+            * Access to Mentors and Industry Experts
+________________
+
+
+10. Tournament Rules
+            * All rounds are strictly time-bound.
+            * Late submissions will not be accepted.
+            * Judges may request clarifications regarding submitted ideas.
+            * Teams must report to the venue within the specified reporting time.
+            * Failure to report on time may lead to disqualification.
+Tie-Breaking Criteria
+In the event of a tie:
+            1. Higher Innovation Score
+            2. Higher Feasibility Score
+            3. Better Pitch Performance
+            4. Judges' Final Decision
+________________
+
+
+11. Code of Conduct
+Participants must:
+            * Maintain professional and respectful behavior.
+            * Demonstrate integrity and fair play.
+            * Respect judges, organizers, volunteers, and fellow participants.
+The following are strictly prohibited:
+            * Cheating
+            * Plagiarism
+            * Misrepresentation
+            * Collusion
+            * Disruptive behavior
+            * Harassment of any kind
+________________
+
+
+12. Disciplinary Actions
+Teams may be disqualified for:
+            * Submission of plagiarized content
+            * Providing false information
+            * Violating event rules
+            * Misconduct during any stage
+            * Failure to follow organizer instructions
+Consequences may include:
+            * Immediate disqualification
+            * Score penalties
+            * Removal from venue
+            * Revocation of awards
+            * Restriction from future Paradox events
+________________
+
+
+Acceptance of Terms
+By registering for this event, participants confirm that they have read, understood, and agreed to abide by all rules stated in this rulebook.
+Any unforeseen situations not covered in this rulebook will be handled at the discretion of the organizing committee.

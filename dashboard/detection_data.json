@@ -1,0 +1,2155 @@
+{
+  "city": "Ujjain",
+  "detections": [
+    {
+      "id": "SS-0001",
+      "lat": 23.19507,
+      "lon": 75.773473,
+      "severity": 5.7,
+      "type": "Pothole",
+      "corridor": "Indore Road",
+      "date": "2026-03-22",
+      "vehicle": "GarbageTruck-09"
+    },
+    {
+      "id": "SS-0002",
+      "lat": 23.192157,
+      "lon": 75.769351,
+      "severity": 6.1,
+      "type": "Pothole",
+      "corridor": "Indore Road",
+      "date": "2026-05-20",
+      "vehicle": "GarbageTruck-01"
+    },
+    {
+      "id": "SS-0003",
+      "lat": 23.173235,
+      "lon": 75.760235,
+      "severity": 3.7,
+      "type": "Transverse Crack",
+      "corridor": "Indore Road",
+      "date": "2026-04-19",
+      "vehicle": "GarbageTruck-05"
+    },
+    {
+      "id": "SS-0004",
+      "lat": 23.185333,
+      "lon": 75.764149,
+      "severity": 4.8,
+      "type": "Transverse Crack",
+      "corridor": "Indore Road",
+      "date": "2026-04-09",
+      "vehicle": "GarbageTruck-03"
+    },
+    {
+      "id": "SS-0005",
+      "lat": 23.187937,
+      "lon": 75.778263,
+      "severity": 6.9,
+      "type": "Pothole",
+      "corridor": "Indore Road",
+      "date": "2026-04-28",
+      "vehicle": "GarbageTruck-06"
+    },
+    {
+      "id": "SS-0006",
+      "lat": 23.173461,
+      "lon": 75.756196,
+      "severity": 4.1,
+      "type": "Transverse Crack",
+      "corridor": "Indore Road",
+      "date": "2026-04-03",
+      "vehicle": "GarbageTruck-09"
+    },
+    {
+      "id": "SS-0007",
+      "lat": 23.181982,
+      "lon": 75.775848,
+      "severity": 7.1,
+      "type": "Alligator Crack",
+      "corridor": "Indore Road",
+      "date": "2026-03-23",
+      "vehicle": "GarbageTruck-02"
+    },
+    {
+      "id": "SS-0008",
+      "lat": 23.190517,
+      "lon": 75.766634,
+      "severity": 5.4,
+      "type": "Pothole",
+      "corridor": "Indore Road",
+      "date": "2026-03-28",
+      "vehicle": "GarbageTruck-02"
+    },
+    {
+      "id": "SS-0009",
+      "lat": 23.178585,
+      "lon": 75.771014,
+      "severity": 2.7,
+      "type": "Transverse Crack",
+      "corridor": "Indore Road",
+      "date": "2026-04-07",
+      "vehicle": "GarbageTruck-05"
+    },
+    {
+      "id": "SS-0010",
+      "lat": 23.181382,
+      "lon": 75.753416,
+      "severity": 8.2,
+      "type": "Pothole",
+      "corridor": "Indore Road",
+      "date": "2026-05-24",
+      "vehicle": "GarbageTruck-04"
+    },
+    {
+      "id": "SS-0011",
+      "lat": 23.189046,
+      "lon": 75.771687,
+      "severity": 7.9,
+      "type": "Alligator Crack",
+      "corridor": "Indore Road",
+      "date": "2026-05-08",
+      "vehicle": "GarbageTruck-06"
+    },
+    {
+      "id": "SS-0012",
+      "lat": 23.192623,
+      "lon": 75.753451,
+      "severity": 5.2,
+      "type": "Pothole",
+      "corridor": "Indore Road",
+      "date": "2026-04-13",
+      "vehicle": "GarbageTruck-05"
+    },
+    {
+      "id": "SS-0013",
+      "lat": 23.201178,
+      "lon": 75.772145,
+      "severity": 5.6,
+      "type": "Longitudinal Crack",
+      "corridor": "Indore Road",
+      "date": "2026-03-21",
+      "vehicle": "GarbageTruck-08"
+    },
+    {
+      "id": "SS-0014",
+      "lat": 23.170936,
+      "lon": 75.77582,
+      "severity": 3.3,
+      "type": "Longitudinal Crack",
+      "corridor": "Indore Road",
+      "date": "2026-03-24",
+      "vehicle": "GarbageTruck-09"
+    },
+    {
+      "id": "SS-0015",
+      "lat": 23.172132,
+      "lon": 75.761784,
+      "severity": 4.9,
+      "type": "Longitudinal Crack",
+      "corridor": "Indore Road",
+      "date": "2026-04-08",
+      "vehicle": "GarbageTruck-03"
+    },
+    {
+      "id": "SS-0016",
+      "lat": 23.181513,
+      "lon": 75.764791,
+      "severity": 5.5,
+      "type": "Pothole",
+      "corridor": "Indore Road",
+      "date": "2026-05-06",
+      "vehicle": "GarbageTruck-07"
+    },
+    {
+      "id": "SS-0017",
+      "lat": 23.178518,
+      "lon": 75.76051,
+      "severity": 4.3,
+      "type": "Longitudinal Crack",
+      "corridor": "Indore Road",
+      "date": "2026-04-18",
+      "vehicle": "GarbageTruck-01"
+    },
+    {
+      "id": "SS-0018",
+      "lat": 23.183326,
+      "lon": 75.761426,
+      "severity": 8.3,
+      "type": "Alligator Crack",
+      "corridor": "Indore Road",
+      "date": "2026-05-11",
+      "vehicle": "GarbageTruck-02"
+    },
+    {
+      "id": "SS-0019",
+      "lat": 23.183733,
+      "lon": 75.76952,
+      "severity": 8.6,
+      "type": "Pothole",
+      "corridor": "Indore Road",
+      "date": "2026-05-09",
+      "vehicle": "GarbageTruck-09"
+    },
+    {
+      "id": "SS-0020",
+      "lat": 23.185715,
+      "lon": 75.755503,
+      "severity": 8.1,
+      "type": "Pothole",
+      "corridor": "Indore Road",
+      "date": "2026-05-17",
+      "vehicle": "GarbageTruck-10"
+    },
+    {
+      "id": "SS-0021",
+      "lat": 23.187443,
+      "lon": 75.772347,
+      "severity": 9.8,
+      "type": "Pothole",
+      "corridor": "Indore Road",
+      "date": "2026-05-01",
+      "vehicle": "GarbageTruck-10"
+    },
+    {
+      "id": "SS-0022",
+      "lat": 23.184287,
+      "lon": 75.766418,
+      "severity": 8.6,
+      "type": "Alligator Crack",
+      "corridor": "Indore Road",
+      "date": "2026-04-08",
+      "vehicle": "GarbageTruck-01"
+    },
+    {
+      "id": "SS-0023",
+      "lat": 23.185594,
+      "lon": 75.775339,
+      "severity": 8.7,
+      "type": "Pothole",
+      "corridor": "Indore Road",
+      "date": "2026-03-25",
+      "vehicle": "GarbageTruck-09"
+    },
+    {
+      "id": "SS-0024",
+      "lat": 23.185417,
+      "lon": 75.760827,
+      "severity": 4.7,
+      "type": "Longitudinal Crack",
+      "corridor": "Indore Road",
+      "date": "2026-04-17",
+      "vehicle": "GarbageTruck-10"
+    },
+    {
+      "id": "SS-0025",
+      "lat": 23.180112,
+      "lon": 75.767563,
+      "severity": 5.6,
+      "type": "Longitudinal Crack",
+      "corridor": "Indore Road",
+      "date": "2026-03-23",
+      "vehicle": "GarbageTruck-05"
+    },
+    {
+      "id": "SS-0026",
+      "lat": 23.175385,
+      "lon": 75.772079,
+      "severity": 9.5,
+      "type": "Pothole",
+      "corridor": "Indore Road",
+      "date": "2026-04-04",
+      "vehicle": "GarbageTruck-04"
+    },
+    {
+      "id": "SS-0027",
+      "lat": 23.186151,
+      "lon": 75.772176,
+      "severity": 3.2,
+      "type": "Longitudinal Crack",
+      "corridor": "Indore Road",
+      "date": "2026-03-01",
+      "vehicle": "GarbageTruck-02"
+    },
+    {
+      "id": "SS-0028",
+      "lat": 23.18427,
+      "lon": 75.76231,
+      "severity": 5.2,
+      "type": "Pothole",
+      "corridor": "Indore Road",
+      "date": "2026-04-03",
+      "vehicle": "GarbageTruck-09"
+    },
+    {
+      "id": "SS-0029",
+      "lat": 23.185896,
+      "lon": 75.776862,
+      "severity": 5.7,
+      "type": "Pothole",
+      "corridor": "Indore Road",
+      "date": "2026-05-19",
+      "vehicle": "GarbageTruck-08"
+    },
+    {
+      "id": "SS-0030",
+      "lat": 23.185398,
+      "lon": 75.774046,
+      "severity": 2.5,
+      "type": "Longitudinal Crack",
+      "corridor": "Indore Road",
+      "date": "2026-05-14",
+      "vehicle": "GarbageTruck-06"
+    },
+    {
+      "id": "SS-0031",
+      "lat": 23.178066,
+      "lon": 75.800583,
+      "severity": 8.3,
+      "type": "Pothole",
+      "corridor": "Dewas Road",
+      "date": "2026-05-04",
+      "vehicle": "GarbageTruck-01"
+    },
+    {
+      "id": "SS-0032",
+      "lat": 23.187547,
+      "lon": 75.795229,
+      "severity": 6.7,
+      "type": "Alligator Crack",
+      "corridor": "Dewas Road",
+      "date": "2026-03-18",
+      "vehicle": "GarbageTruck-08"
+    },
+    {
+      "id": "SS-0033",
+      "lat": 23.199053,
+      "lon": 75.794911,
+      "severity": 6.4,
+      "type": "Longitudinal Crack",
+      "corridor": "Dewas Road",
+      "date": "2026-03-15",
+      "vehicle": "GarbageTruck-09"
+    },
+    {
+      "id": "SS-0034",
+      "lat": 23.206868,
+      "lon": 75.798387,
+      "severity": 2.1,
+      "type": "Longitudinal Crack",
+      "corridor": "Dewas Road",
+      "date": "2026-03-25",
+      "vehicle": "GarbageTruck-04"
+    },
+    {
+      "id": "SS-0035",
+      "lat": 23.200788,
+      "lon": 75.799973,
+      "severity": 7.0,
+      "type": "Pothole",
+      "corridor": "Dewas Road",
+      "date": "2026-03-06",
+      "vehicle": "GarbageTruck-07"
+    },
+    {
+      "id": "SS-0036",
+      "lat": 23.204949,
+      "lon": 75.790135,
+      "severity": 8.4,
+      "type": "Alligator Crack",
+      "corridor": "Dewas Road",
+      "date": "2026-04-14",
+      "vehicle": "GarbageTruck-09"
+    },
+    {
+      "id": "SS-0037",
+      "lat": 23.188927,
+      "lon": 75.780177,
+      "severity": 6.1,
+      "type": "Pothole",
+      "corridor": "Dewas Road",
+      "date": "2026-03-19",
+      "vehicle": "GarbageTruck-09"
+    },
+    {
+      "id": "SS-0038",
+      "lat": 23.203047,
+      "lon": 75.793242,
+      "severity": 7.4,
+      "type": "Pothole",
+      "corridor": "Dewas Road",
+      "date": "2026-05-06",
+      "vehicle": "GarbageTruck-01"
+    },
+    {
+      "id": "SS-0039",
+      "lat": 23.198963,
+      "lon": 75.789003,
+      "severity": 8.0,
+      "type": "Pothole",
+      "corridor": "Dewas Road",
+      "date": "2026-05-28",
+      "vehicle": "GarbageTruck-04"
+    },
+    {
+      "id": "SS-0040",
+      "lat": 23.175391,
+      "lon": 75.803548,
+      "severity": 4.9,
+      "type": "Longitudinal Crack",
+      "corridor": "Dewas Road",
+      "date": "2026-03-20",
+      "vehicle": "GarbageTruck-02"
+    },
+    {
+      "id": "SS-0041",
+      "lat": 23.18343,
+      "lon": 75.796434,
+      "severity": 6.7,
+      "type": "Longitudinal Crack",
+      "corridor": "Dewas Road",
+      "date": "2026-03-22",
+      "vehicle": "GarbageTruck-06"
+    },
+    {
+      "id": "SS-0042",
+      "lat": 23.195713,
+      "lon": 75.800013,
+      "severity": 3.2,
+      "type": "Transverse Crack",
+      "corridor": "Dewas Road",
+      "date": "2026-04-25",
+      "vehicle": "GarbageTruck-02"
+    },
+    {
+      "id": "SS-0043",
+      "lat": 23.208909,
+      "lon": 75.790815,
+      "severity": 2.5,
+      "type": "Longitudinal Crack",
+      "corridor": "Dewas Road",
+      "date": "2026-05-07",
+      "vehicle": "GarbageTruck-09"
+    },
+    {
+      "id": "SS-0044",
+      "lat": 23.192781,
+      "lon": 75.813162,
+      "severity": 8.6,
+      "type": "Alligator Crack",
+      "corridor": "Dewas Road",
+      "date": "2026-04-10",
+      "vehicle": "GarbageTruck-03"
+    },
+    {
+      "id": "SS-0045",
+      "lat": 23.183414,
+      "lon": 75.794741,
+      "severity": 9.9,
+      "type": "Pothole",
+      "corridor": "Dewas Road",
+      "date": "2026-05-17",
+      "vehicle": "GarbageTruck-01"
+    },
+    {
+      "id": "SS-0046",
+      "lat": 23.188724,
+      "lon": 75.778938,
+      "severity": 6.3,
+      "type": "Alligator Crack",
+      "corridor": "Dewas Road",
+      "date": "2026-03-09",
+      "vehicle": "GarbageTruck-02"
+    },
+    {
+      "id": "SS-0047",
+      "lat": 23.207672,
+      "lon": 75.779478,
+      "severity": 6.4,
+      "type": "Pothole",
+      "corridor": "Dewas Road",
+      "date": "2026-03-23",
+      "vehicle": "GarbageTruck-06"
+    },
+    {
+      "id": "SS-0048",
+      "lat": 23.199077,
+      "lon": 75.803584,
+      "severity": 7.4,
+      "type": "Pothole",
+      "corridor": "Dewas Road",
+      "date": "2026-03-03",
+      "vehicle": "GarbageTruck-07"
+    },
+    {
+      "id": "SS-0049",
+      "lat": 23.196436,
+      "lon": 75.787363,
+      "severity": 5.7,
+      "type": "Pothole",
+      "corridor": "Dewas Road",
+      "date": "2026-04-06",
+      "vehicle": "GarbageTruck-08"
+    },
+    {
+      "id": "SS-0050",
+      "lat": 23.184987,
+      "lon": 75.786629,
+      "severity": 5.4,
+      "type": "Pothole",
+      "corridor": "Dewas Road",
+      "date": "2026-05-05",
+      "vehicle": "GarbageTruck-09"
+    },
+    {
+      "id": "SS-0051",
+      "lat": 23.204355,
+      "lon": 75.792155,
+      "severity": 4.1,
+      "type": "Longitudinal Crack",
+      "corridor": "Dewas Road",
+      "date": "2026-03-10",
+      "vehicle": "GarbageTruck-06"
+    },
+    {
+      "id": "SS-0052",
+      "lat": 23.209361,
+      "lon": 75.779425,
+      "severity": 8.7,
+      "type": "Alligator Crack",
+      "corridor": "Dewas Road",
+      "date": "2026-03-22",
+      "vehicle": "GarbageTruck-04"
+    },
+    {
+      "id": "SS-0053",
+      "lat": 23.190342,
+      "lon": 75.781901,
+      "severity": 6.4,
+      "type": "Longitudinal Crack",
+      "corridor": "Dewas Road",
+      "date": "2026-05-24",
+      "vehicle": "GarbageTruck-03"
+    },
+    {
+      "id": "SS-0054",
+      "lat": 23.201565,
+      "lon": 75.786694,
+      "severity": 9.0,
+      "type": "Pothole",
+      "corridor": "Dewas Road",
+      "date": "2026-03-14",
+      "vehicle": "GarbageTruck-01"
+    },
+    {
+      "id": "SS-0055",
+      "lat": 23.204761,
+      "lon": 75.810528,
+      "severity": 3.6,
+      "type": "Transverse Crack",
+      "corridor": "Dewas Road",
+      "date": "2026-05-28",
+      "vehicle": "GarbageTruck-04"
+    },
+    {
+      "id": "SS-0056",
+      "lat": 23.193145,
+      "lon": 75.807499,
+      "severity": 9.4,
+      "type": "Pothole",
+      "corridor": "Dewas Road",
+      "date": "2026-04-08",
+      "vehicle": "GarbageTruck-04"
+    },
+    {
+      "id": "SS-0057",
+      "lat": 23.152396,
+      "lon": 75.815513,
+      "severity": 6.7,
+      "type": "Alligator Crack",
+      "corridor": "Agar Road",
+      "date": "2026-05-07",
+      "vehicle": "GarbageTruck-07"
+    },
+    {
+      "id": "SS-0058",
+      "lat": 23.153394,
+      "lon": 75.817334,
+      "severity": 6.8,
+      "type": "Alligator Crack",
+      "corridor": "Agar Road",
+      "date": "2026-05-17",
+      "vehicle": "GarbageTruck-07"
+    },
+    {
+      "id": "SS-0059",
+      "lat": 23.154221,
+      "lon": 75.792815,
+      "severity": 5.1,
+      "type": "Pothole",
+      "corridor": "Agar Road",
+      "date": "2026-04-06",
+      "vehicle": "GarbageTruck-10"
+    },
+    {
+      "id": "SS-0060",
+      "lat": 23.165347,
+      "lon": 75.803718,
+      "severity": 7.2,
+      "type": "Pothole",
+      "corridor": "Agar Road",
+      "date": "2026-05-26",
+      "vehicle": "GarbageTruck-06"
+    },
+    {
+      "id": "SS-0061",
+      "lat": 23.141422,
+      "lon": 75.812847,
+      "severity": 9.5,
+      "type": "Pothole",
+      "corridor": "Agar Road",
+      "date": "2026-03-09",
+      "vehicle": "GarbageTruck-01"
+    },
+    {
+      "id": "SS-0062",
+      "lat": 23.159896,
+      "lon": 75.804606,
+      "severity": 7.6,
+      "type": "Alligator Crack",
+      "corridor": "Agar Road",
+      "date": "2026-05-24",
+      "vehicle": "GarbageTruck-04"
+    },
+    {
+      "id": "SS-0063",
+      "lat": 23.158247,
+      "lon": 75.807009,
+      "severity": 3.3,
+      "type": "Transverse Crack",
+      "corridor": "Agar Road",
+      "date": "2026-04-22",
+      "vehicle": "GarbageTruck-02"
+    },
+    {
+      "id": "SS-0064",
+      "lat": 23.158882,
+      "lon": 75.79919,
+      "severity": 7.0,
+      "type": "Pothole",
+      "corridor": "Agar Road",
+      "date": "2026-04-23",
+      "vehicle": "GarbageTruck-05"
+    },
+    {
+      "id": "SS-0065",
+      "lat": 23.155696,
+      "lon": 75.803468,
+      "severity": 3.5,
+      "type": "Transverse Crack",
+      "corridor": "Agar Road",
+      "date": "2026-05-06",
+      "vehicle": "GarbageTruck-10"
+    },
+    {
+      "id": "SS-0066",
+      "lat": 23.153518,
+      "lon": 75.801994,
+      "severity": 3.2,
+      "type": "Transverse Crack",
+      "corridor": "Agar Road",
+      "date": "2026-03-14",
+      "vehicle": "GarbageTruck-10"
+    },
+    {
+      "id": "SS-0067",
+      "lat": 23.155161,
+      "lon": 75.801165,
+      "severity": 5.4,
+      "type": "Longitudinal Crack",
+      "corridor": "Agar Road",
+      "date": "2026-05-16",
+      "vehicle": "GarbageTruck-03"
+    },
+    {
+      "id": "SS-0068",
+      "lat": 23.156901,
+      "lon": 75.800193,
+      "severity": 4.5,
+      "type": "Transverse Crack",
+      "corridor": "Agar Road",
+      "date": "2026-03-27",
+      "vehicle": "GarbageTruck-04"
+    },
+    {
+      "id": "SS-0069",
+      "lat": 23.157672,
+      "lon": 75.800583,
+      "severity": 5.1,
+      "type": "Pothole",
+      "corridor": "Agar Road",
+      "date": "2026-03-16",
+      "vehicle": "GarbageTruck-10"
+    },
+    {
+      "id": "SS-0070",
+      "lat": 23.161596,
+      "lon": 75.802795,
+      "severity": 5.1,
+      "type": "Longitudinal Crack",
+      "corridor": "Agar Road",
+      "date": "2026-03-23",
+      "vehicle": "GarbageTruck-07"
+    },
+    {
+      "id": "SS-0071",
+      "lat": 23.154768,
+      "lon": 75.805185,
+      "severity": 2.0,
+      "type": "Transverse Crack",
+      "corridor": "Agar Road",
+      "date": "2026-03-25",
+      "vehicle": "GarbageTruck-07"
+    },
+    {
+      "id": "SS-0072",
+      "lat": 23.162459,
+      "lon": 75.817398,
+      "severity": 3.9,
+      "type": "Transverse Crack",
+      "corridor": "Agar Road",
+      "date": "2026-05-08",
+      "vehicle": "GarbageTruck-02"
+    },
+    {
+      "id": "SS-0073",
+      "lat": 23.147881,
+      "lon": 75.8084,
+      "severity": 6.0,
+      "type": "Transverse Crack",
+      "corridor": "Agar Road",
+      "date": "2026-05-11",
+      "vehicle": "GarbageTruck-08"
+    },
+    {
+      "id": "SS-0074",
+      "lat": 23.151522,
+      "lon": 75.797745,
+      "severity": 6.2,
+      "type": "Longitudinal Crack",
+      "corridor": "Agar Road",
+      "date": "2026-05-15",
+      "vehicle": "GarbageTruck-03"
+    },
+    {
+      "id": "SS-0075",
+      "lat": 23.159683,
+      "lon": 75.797064,
+      "severity": 6.2,
+      "type": "Pothole",
+      "corridor": "Agar Road",
+      "date": "2026-05-09",
+      "vehicle": "GarbageTruck-09"
+    },
+    {
+      "id": "SS-0076",
+      "lat": 23.154848,
+      "lon": 75.8055,
+      "severity": 5.6,
+      "type": "Longitudinal Crack",
+      "corridor": "Agar Road",
+      "date": "2026-03-09",
+      "vehicle": "GarbageTruck-06"
+    },
+    {
+      "id": "SS-0077",
+      "lat": 23.156299,
+      "lon": 75.812902,
+      "severity": 6.2,
+      "type": "Pothole",
+      "corridor": "Agar Road",
+      "date": "2026-05-05",
+      "vehicle": "GarbageTruck-04"
+    },
+    {
+      "id": "SS-0078",
+      "lat": 23.166588,
+      "lon": 75.807813,
+      "severity": 4.1,
+      "type": "Longitudinal Crack",
+      "corridor": "Agar Road",
+      "date": "2026-03-27",
+      "vehicle": "GarbageTruck-07"
+    },
+    {
+      "id": "SS-0079",
+      "lat": 23.150781,
+      "lon": 75.812678,
+      "severity": 6.1,
+      "type": "Alligator Crack",
+      "corridor": "Agar Road",
+      "date": "2026-05-13",
+      "vehicle": "GarbageTruck-08"
+    },
+    {
+      "id": "SS-0080",
+      "lat": 23.166513,
+      "lon": 75.805241,
+      "severity": 5.4,
+      "type": "Transverse Crack",
+      "corridor": "Agar Road",
+      "date": "2026-04-18",
+      "vehicle": "GarbageTruck-09"
+    },
+    {
+      "id": "SS-0081",
+      "lat": 23.164608,
+      "lon": 75.790777,
+      "severity": 3.4,
+      "type": "Longitudinal Crack",
+      "corridor": "Agar Road",
+      "date": "2026-04-01",
+      "vehicle": "GarbageTruck-07"
+    },
+    {
+      "id": "SS-0082",
+      "lat": 23.154563,
+      "lon": 75.814047,
+      "severity": 2.8,
+      "type": "Longitudinal Crack",
+      "corridor": "Agar Road",
+      "date": "2026-04-05",
+      "vehicle": "GarbageTruck-10"
+    },
+    {
+      "id": "SS-0083",
+      "lat": 23.145095,
+      "lon": 75.801754,
+      "severity": 5.3,
+      "type": "Longitudinal Crack",
+      "corridor": "Agar Road",
+      "date": "2026-03-21",
+      "vehicle": "GarbageTruck-07"
+    },
+    {
+      "id": "SS-0084",
+      "lat": 23.177122,
+      "lon": 75.777649,
+      "severity": 6.6,
+      "type": "Pothole",
+      "corridor": "Station Road",
+      "date": "2026-04-11",
+      "vehicle": "GarbageTruck-06"
+    },
+    {
+      "id": "SS-0085",
+      "lat": 23.175344,
+      "lon": 75.77513,
+      "severity": 5.3,
+      "type": "Transverse Crack",
+      "corridor": "Station Road",
+      "date": "2026-04-27",
+      "vehicle": "GarbageTruck-02"
+    },
+    {
+      "id": "SS-0086",
+      "lat": 23.16683,
+      "lon": 75.781542,
+      "severity": 9.8,
+      "type": "Pothole",
+      "corridor": "Station Road",
+      "date": "2026-03-21",
+      "vehicle": "GarbageTruck-02"
+    },
+    {
+      "id": "SS-0087",
+      "lat": 23.176416,
+      "lon": 75.772877,
+      "severity": 5.8,
+      "type": "Transverse Crack",
+      "corridor": "Station Road",
+      "date": "2026-03-27",
+      "vehicle": "GarbageTruck-01"
+    },
+    {
+      "id": "SS-0088",
+      "lat": 23.17233,
+      "lon": 75.777451,
+      "severity": 2.6,
+      "type": "Longitudinal Crack",
+      "corridor": "Station Road",
+      "date": "2026-03-15",
+      "vehicle": "GarbageTruck-05"
+    },
+    {
+      "id": "SS-0089",
+      "lat": 23.175321,
+      "lon": 75.776987,
+      "severity": 5.7,
+      "type": "Longitudinal Crack",
+      "corridor": "Station Road",
+      "date": "2026-03-25",
+      "vehicle": "GarbageTruck-03"
+    },
+    {
+      "id": "SS-0090",
+      "lat": 23.177333,
+      "lon": 75.779474,
+      "severity": 6.6,
+      "type": "Pothole",
+      "corridor": "Station Road",
+      "date": "2026-05-13",
+      "vehicle": "GarbageTruck-07"
+    },
+    {
+      "id": "SS-0091",
+      "lat": 23.178102,
+      "lon": 75.778805,
+      "severity": 6.2,
+      "type": "Longitudinal Crack",
+      "corridor": "Station Road",
+      "date": "2026-03-04",
+      "vehicle": "GarbageTruck-05"
+    },
+    {
+      "id": "SS-0092",
+      "lat": 23.178991,
+      "lon": 75.774528,
+      "severity": 9.9,
+      "type": "Pothole",
+      "corridor": "Station Road",
+      "date": "2026-03-12",
+      "vehicle": "GarbageTruck-09"
+    },
+    {
+      "id": "SS-0093",
+      "lat": 23.170668,
+      "lon": 75.782093,
+      "severity": 3.7,
+      "type": "Longitudinal Crack",
+      "corridor": "Station Road",
+      "date": "2026-04-27",
+      "vehicle": "GarbageTruck-08"
+    },
+    {
+      "id": "SS-0094",
+      "lat": 23.185029,
+      "lon": 75.787834,
+      "severity": 6.1,
+      "type": "Longitudinal Crack",
+      "corridor": "Station Road",
+      "date": "2026-05-05",
+      "vehicle": "GarbageTruck-07"
+    },
+    {
+      "id": "SS-0095",
+      "lat": 23.177718,
+      "lon": 75.785431,
+      "severity": 4.5,
+      "type": "Transverse Crack",
+      "corridor": "Station Road",
+      "date": "2026-05-25",
+      "vehicle": "GarbageTruck-08"
+    },
+    {
+      "id": "SS-0096",
+      "lat": 23.16588,
+      "lon": 75.782046,
+      "severity": 3.6,
+      "type": "Longitudinal Crack",
+      "corridor": "Station Road",
+      "date": "2026-03-27",
+      "vehicle": "GarbageTruck-02"
+    },
+    {
+      "id": "SS-0097",
+      "lat": 23.174011,
+      "lon": 75.785384,
+      "severity": 4.3,
+      "type": "Transverse Crack",
+      "corridor": "Station Road",
+      "date": "2026-05-13",
+      "vehicle": "GarbageTruck-06"
+    },
+    {
+      "id": "SS-0098",
+      "lat": 23.184598,
+      "lon": 75.78175,
+      "severity": 6.1,
+      "type": "Pothole",
+      "corridor": "Station Road",
+      "date": "2026-04-11",
+      "vehicle": "GarbageTruck-05"
+    },
+    {
+      "id": "SS-0099",
+      "lat": 23.180676,
+      "lon": 75.774691,
+      "severity": 5.1,
+      "type": "Pothole",
+      "corridor": "Station Road",
+      "date": "2026-03-03",
+      "vehicle": "GarbageTruck-04"
+    },
+    {
+      "id": "SS-0100",
+      "lat": 23.173918,
+      "lon": 75.774312,
+      "severity": 4.8,
+      "type": "Transverse Crack",
+      "corridor": "Station Road",
+      "date": "2026-05-23",
+      "vehicle": "GarbageTruck-08"
+    },
+    {
+      "id": "SS-0101",
+      "lat": 23.174116,
+      "lon": 75.780298,
+      "severity": 7.0,
+      "type": "Pothole",
+      "corridor": "Station Road",
+      "date": "2026-03-10",
+      "vehicle": "GarbageTruck-10"
+    },
+    {
+      "id": "SS-0102",
+      "lat": 23.170682,
+      "lon": 75.784655,
+      "severity": 10.0,
+      "type": "Pothole",
+      "corridor": "Station Road",
+      "date": "2026-05-11",
+      "vehicle": "GarbageTruck-06"
+    },
+    {
+      "id": "SS-0103",
+      "lat": 23.17384,
+      "lon": 75.776198,
+      "severity": 5.6,
+      "type": "Pothole",
+      "corridor": "Station Road",
+      "date": "2026-03-11",
+      "vehicle": "GarbageTruck-02"
+    },
+    {
+      "id": "SS-0104",
+      "lat": 23.174451,
+      "lon": 75.767737,
+      "severity": 2.8,
+      "type": "Transverse Crack",
+      "corridor": "Station Road",
+      "date": "2026-05-16",
+      "vehicle": "GarbageTruck-05"
+    },
+    {
+      "id": "SS-0105",
+      "lat": 23.172821,
+      "lon": 75.766472,
+      "severity": 3.4,
+      "type": "Longitudinal Crack",
+      "corridor": "Station Road",
+      "date": "2026-03-27",
+      "vehicle": "GarbageTruck-04"
+    },
+    {
+      "id": "SS-0106",
+      "lat": 23.178355,
+      "lon": 75.777491,
+      "severity": 7.7,
+      "type": "Pothole",
+      "corridor": "Freeganj Area",
+      "date": "2026-04-02",
+      "vehicle": "GarbageTruck-01"
+    },
+    {
+      "id": "SS-0107",
+      "lat": 23.172159,
+      "lon": 75.772965,
+      "severity": 9.3,
+      "type": "Pothole",
+      "corridor": "Freeganj Area",
+      "date": "2026-04-04",
+      "vehicle": "GarbageTruck-01"
+    },
+    {
+      "id": "SS-0108",
+      "lat": 23.173976,
+      "lon": 75.772979,
+      "severity": 2.9,
+      "type": "Longitudinal Crack",
+      "corridor": "Freeganj Area",
+      "date": "2026-03-09",
+      "vehicle": "GarbageTruck-08"
+    },
+    {
+      "id": "SS-0109",
+      "lat": 23.179109,
+      "lon": 75.775966,
+      "severity": 4.9,
+      "type": "Longitudinal Crack",
+      "corridor": "Freeganj Area",
+      "date": "2026-05-02",
+      "vehicle": "GarbageTruck-03"
+    },
+    {
+      "id": "SS-0110",
+      "lat": 23.181046,
+      "lon": 75.779148,
+      "severity": 10.0,
+      "type": "Pothole",
+      "corridor": "Freeganj Area",
+      "date": "2026-03-18",
+      "vehicle": "GarbageTruck-07"
+    },
+    {
+      "id": "SS-0111",
+      "lat": 23.172446,
+      "lon": 75.770618,
+      "severity": 7.6,
+      "type": "Pothole",
+      "corridor": "Freeganj Area",
+      "date": "2026-04-15",
+      "vehicle": "GarbageTruck-05"
+    },
+    {
+      "id": "SS-0112",
+      "lat": 23.18575,
+      "lon": 75.765651,
+      "severity": 8.1,
+      "type": "Pothole",
+      "corridor": "Freeganj Area",
+      "date": "2026-05-24",
+      "vehicle": "GarbageTruck-02"
+    },
+    {
+      "id": "SS-0113",
+      "lat": 23.180583,
+      "lon": 75.774117,
+      "severity": 8.3,
+      "type": "Pothole",
+      "corridor": "Freeganj Area",
+      "date": "2026-03-08",
+      "vehicle": "GarbageTruck-03"
+    },
+    {
+      "id": "SS-0114",
+      "lat": 23.175789,
+      "lon": 75.774251,
+      "severity": 5.4,
+      "type": "Longitudinal Crack",
+      "corridor": "Freeganj Area",
+      "date": "2026-04-10",
+      "vehicle": "GarbageTruck-01"
+    },
+    {
+      "id": "SS-0115",
+      "lat": 23.178728,
+      "lon": 75.781225,
+      "severity": 3.8,
+      "type": "Transverse Crack",
+      "corridor": "Freeganj Area",
+      "date": "2026-05-08",
+      "vehicle": "GarbageTruck-05"
+    },
+    {
+      "id": "SS-0116",
+      "lat": 23.179319,
+      "lon": 75.769555,
+      "severity": 5.7,
+      "type": "Transverse Crack",
+      "corridor": "Freeganj Area",
+      "date": "2026-04-04",
+      "vehicle": "GarbageTruck-09"
+    },
+    {
+      "id": "SS-0117",
+      "lat": 23.178358,
+      "lon": 75.777244,
+      "severity": 5.7,
+      "type": "Pothole",
+      "corridor": "Freeganj Area",
+      "date": "2026-03-06",
+      "vehicle": "GarbageTruck-05"
+    },
+    {
+      "id": "SS-0118",
+      "lat": 23.171832,
+      "lon": 75.770806,
+      "severity": 7.3,
+      "type": "Alligator Crack",
+      "corridor": "Freeganj Area",
+      "date": "2026-04-23",
+      "vehicle": "GarbageTruck-05"
+    },
+    {
+      "id": "SS-0119",
+      "lat": 23.175029,
+      "lon": 75.765908,
+      "severity": 4.5,
+      "type": "Longitudinal Crack",
+      "corridor": "Freeganj Area",
+      "date": "2026-03-20",
+      "vehicle": "GarbageTruck-01"
+    },
+    {
+      "id": "SS-0120",
+      "lat": 23.183005,
+      "lon": 75.770829,
+      "severity": 2.1,
+      "type": "Longitudinal Crack",
+      "corridor": "Freeganj Area",
+      "date": "2026-03-22",
+      "vehicle": "GarbageTruck-10"
+    },
+    {
+      "id": "SS-0121",
+      "lat": 23.177301,
+      "lon": 75.774574,
+      "severity": 5.3,
+      "type": "Transverse Crack",
+      "corridor": "Freeganj Area",
+      "date": "2026-05-02",
+      "vehicle": "GarbageTruck-03"
+    },
+    {
+      "id": "SS-0122",
+      "lat": 23.172292,
+      "lon": 75.77607,
+      "severity": 6.5,
+      "type": "Alligator Crack",
+      "corridor": "Freeganj Area",
+      "date": "2026-05-14",
+      "vehicle": "GarbageTruck-08"
+    },
+    {
+      "id": "SS-0123",
+      "lat": 23.182422,
+      "lon": 75.774129,
+      "severity": 3.6,
+      "type": "Longitudinal Crack",
+      "corridor": "Freeganj Area",
+      "date": "2026-03-28",
+      "vehicle": "GarbageTruck-03"
+    },
+    {
+      "id": "SS-0124",
+      "lat": 23.175042,
+      "lon": 75.780396,
+      "severity": 9.7,
+      "type": "Pothole",
+      "corridor": "Freeganj Area",
+      "date": "2026-05-02",
+      "vehicle": "GarbageTruck-08"
+    },
+    {
+      "id": "SS-0125",
+      "lat": 23.180596,
+      "lon": 75.776603,
+      "severity": 8.9,
+      "type": "Pothole",
+      "corridor": "Freeganj Area",
+      "date": "2026-05-27",
+      "vehicle": "GarbageTruck-01"
+    },
+    {
+      "id": "SS-0126",
+      "lat": 23.175257,
+      "lon": 75.770816,
+      "severity": 2.9,
+      "type": "Longitudinal Crack",
+      "corridor": "Freeganj Area",
+      "date": "2026-04-20",
+      "vehicle": "GarbageTruck-08"
+    },
+    {
+      "id": "SS-0127",
+      "lat": 23.173234,
+      "lon": 75.770209,
+      "severity": 7.7,
+      "type": "Pothole",
+      "corridor": "Freeganj Area",
+      "date": "2026-04-15",
+      "vehicle": "GarbageTruck-08"
+    },
+    {
+      "id": "SS-0128",
+      "lat": 23.185777,
+      "lon": 75.782435,
+      "severity": 3.2,
+      "type": "Longitudinal Crack",
+      "corridor": "Freeganj Area",
+      "date": "2026-03-10",
+      "vehicle": "GarbageTruck-09"
+    },
+    {
+      "id": "SS-0129",
+      "lat": 23.182081,
+      "lon": 75.775351,
+      "severity": 9.2,
+      "type": "Pothole",
+      "corridor": "Freeganj Area",
+      "date": "2026-03-15",
+      "vehicle": "GarbageTruck-02"
+    },
+    {
+      "id": "SS-0130",
+      "lat": 23.184539,
+      "lon": 75.765135,
+      "severity": 4.0,
+      "type": "Transverse Crack",
+      "corridor": "Mahakal Temple Rd",
+      "date": "2026-04-14",
+      "vehicle": "GarbageTruck-08"
+    },
+    {
+      "id": "SS-0131",
+      "lat": 23.185025,
+      "lon": 75.767922,
+      "severity": 3.9,
+      "type": "Longitudinal Crack",
+      "corridor": "Mahakal Temple Rd",
+      "date": "2026-05-17",
+      "vehicle": "GarbageTruck-03"
+    },
+    {
+      "id": "SS-0132",
+      "lat": 23.184384,
+      "lon": 75.766381,
+      "severity": 3.7,
+      "type": "Transverse Crack",
+      "corridor": "Mahakal Temple Rd",
+      "date": "2026-05-09",
+      "vehicle": "GarbageTruck-01"
+    },
+    {
+      "id": "SS-0133",
+      "lat": 23.182282,
+      "lon": 75.770673,
+      "severity": 7.0,
+      "type": "Longitudinal Crack",
+      "corridor": "Mahakal Temple Rd",
+      "date": "2026-04-28",
+      "vehicle": "GarbageTruck-03"
+    },
+    {
+      "id": "SS-0134",
+      "lat": 23.17954,
+      "lon": 75.769338,
+      "severity": 8.8,
+      "type": "Pothole",
+      "corridor": "Mahakal Temple Rd",
+      "date": "2026-04-15",
+      "vehicle": "GarbageTruck-06"
+    },
+    {
+      "id": "SS-0135",
+      "lat": 23.188558,
+      "lon": 75.762038,
+      "severity": 6.9,
+      "type": "Pothole",
+      "corridor": "Mahakal Temple Rd",
+      "date": "2026-04-02",
+      "vehicle": "GarbageTruck-06"
+    },
+    {
+      "id": "SS-0136",
+      "lat": 23.182644,
+      "lon": 75.763513,
+      "severity": 3.5,
+      "type": "Transverse Crack",
+      "corridor": "Mahakal Temple Rd",
+      "date": "2026-05-26",
+      "vehicle": "GarbageTruck-03"
+    },
+    {
+      "id": "SS-0137",
+      "lat": 23.181976,
+      "lon": 75.768224,
+      "severity": 5.0,
+      "type": "Longitudinal Crack",
+      "corridor": "Mahakal Temple Rd",
+      "date": "2026-03-28",
+      "vehicle": "GarbageTruck-08"
+    },
+    {
+      "id": "SS-0138",
+      "lat": 23.188139,
+      "lon": 75.772064,
+      "severity": 5.7,
+      "type": "Pothole",
+      "corridor": "Mahakal Temple Rd",
+      "date": "2026-05-05",
+      "vehicle": "GarbageTruck-02"
+    },
+    {
+      "id": "SS-0139",
+      "lat": 23.17503,
+      "lon": 75.769708,
+      "severity": 8.5,
+      "type": "Pothole",
+      "corridor": "Mahakal Temple Rd",
+      "date": "2026-05-03",
+      "vehicle": "GarbageTruck-06"
+    },
+    {
+      "id": "SS-0140",
+      "lat": 23.186363,
+      "lon": 75.763445,
+      "severity": 6.6,
+      "type": "Pothole",
+      "corridor": "Mahakal Temple Rd",
+      "date": "2026-05-25",
+      "vehicle": "GarbageTruck-08"
+    },
+    {
+      "id": "SS-0141",
+      "lat": 23.183364,
+      "lon": 75.767617,
+      "severity": 8.2,
+      "type": "Pothole",
+      "corridor": "Mahakal Temple Rd",
+      "date": "2026-04-08",
+      "vehicle": "GarbageTruck-02"
+    },
+    {
+      "id": "SS-0142",
+      "lat": 23.18155,
+      "lon": 75.768751,
+      "severity": 6.4,
+      "type": "Longitudinal Crack",
+      "corridor": "Mahakal Temple Rd",
+      "date": "2026-04-06",
+      "vehicle": "GarbageTruck-05"
+    },
+    {
+      "id": "SS-0143",
+      "lat": 23.183556,
+      "lon": 75.767675,
+      "severity": 3.2,
+      "type": "Transverse Crack",
+      "corridor": "Mahakal Temple Rd",
+      "date": "2026-04-14",
+      "vehicle": "GarbageTruck-03"
+    },
+    {
+      "id": "SS-0144",
+      "lat": 23.182913,
+      "lon": 75.77129,
+      "severity": 2.7,
+      "type": "Transverse Crack",
+      "corridor": "Mahakal Temple Rd",
+      "date": "2026-03-03",
+      "vehicle": "GarbageTruck-10"
+    },
+    {
+      "id": "SS-0145",
+      "lat": 23.185672,
+      "lon": 75.765174,
+      "severity": 9.6,
+      "type": "Pothole",
+      "corridor": "Mahakal Temple Rd",
+      "date": "2026-03-08",
+      "vehicle": "GarbageTruck-08"
+    },
+    {
+      "id": "SS-0146",
+      "lat": 23.180645,
+      "lon": 75.765664,
+      "severity": 5.6,
+      "type": "Transverse Crack",
+      "corridor": "Mahakal Temple Rd",
+      "date": "2026-04-10",
+      "vehicle": "GarbageTruck-09"
+    },
+    {
+      "id": "SS-0147",
+      "lat": 23.18457,
+      "lon": 75.770913,
+      "severity": 7.9,
+      "type": "Pothole",
+      "corridor": "Mahakal Temple Rd",
+      "date": "2026-05-14",
+      "vehicle": "GarbageTruck-05"
+    },
+    {
+      "id": "SS-0148",
+      "lat": 23.180348,
+      "lon": 75.768882,
+      "severity": 8.6,
+      "type": "Alligator Crack",
+      "corridor": "Mahakal Temple Rd",
+      "date": "2026-03-08",
+      "vehicle": "GarbageTruck-07"
+    },
+    {
+      "id": "SS-0149",
+      "lat": 23.17927,
+      "lon": 75.766487,
+      "severity": 6.9,
+      "type": "Alligator Crack",
+      "corridor": "Mahakal Temple Rd",
+      "date": "2026-05-13",
+      "vehicle": "GarbageTruck-05"
+    },
+    {
+      "id": "SS-0150",
+      "lat": 23.188797,
+      "lon": 75.768505,
+      "severity": 5.9,
+      "type": "Transverse Crack",
+      "corridor": "Mahakal Temple Rd",
+      "date": "2026-05-24",
+      "vehicle": "GarbageTruck-08"
+    },
+    {
+      "id": "SS-0151",
+      "lat": 23.186022,
+      "lon": 75.762579,
+      "severity": 2.9,
+      "type": "Transverse Crack",
+      "corridor": "Mahakal Temple Rd",
+      "date": "2026-04-08",
+      "vehicle": "GarbageTruck-04"
+    },
+    {
+      "id": "SS-0152",
+      "lat": 23.179526,
+      "lon": 75.765091,
+      "severity": 4.6,
+      "type": "Transverse Crack",
+      "corridor": "Mahakal Temple Rd",
+      "date": "2026-03-21",
+      "vehicle": "GarbageTruck-02"
+    },
+    {
+      "id": "SS-0153",
+      "lat": 23.186353,
+      "lon": 75.765733,
+      "severity": 7.2,
+      "type": "Pothole",
+      "corridor": "Mahakal Temple Rd",
+      "date": "2026-05-12",
+      "vehicle": "GarbageTruck-03"
+    },
+    {
+      "id": "SS-0154",
+      "lat": 23.184917,
+      "lon": 75.769546,
+      "severity": 2.7,
+      "type": "Transverse Crack",
+      "corridor": "Mahakal Temple Rd",
+      "date": "2026-03-26",
+      "vehicle": "GarbageTruck-09"
+    },
+    {
+      "id": "SS-0155",
+      "lat": 23.184843,
+      "lon": 75.766194,
+      "severity": 3.4,
+      "type": "Longitudinal Crack",
+      "corridor": "Mahakal Temple Rd",
+      "date": "2026-03-09",
+      "vehicle": "GarbageTruck-08"
+    },
+    {
+      "id": "SS-0156",
+      "lat": 23.185257,
+      "lon": 75.767689,
+      "severity": 8.4,
+      "type": "Alligator Crack",
+      "corridor": "Mahakal Temple Rd",
+      "date": "2026-04-03",
+      "vehicle": "GarbageTruck-03"
+    },
+    {
+      "id": "SS-0157",
+      "lat": 23.182856,
+      "lon": 75.766055,
+      "severity": 4.7,
+      "type": "Transverse Crack",
+      "corridor": "Mahakal Temple Rd",
+      "date": "2026-04-28",
+      "vehicle": "GarbageTruck-09"
+    },
+    {
+      "id": "SS-0158",
+      "lat": 23.179272,
+      "lon": 75.772163,
+      "severity": 7.7,
+      "type": "Pothole",
+      "corridor": "Mahakal Temple Rd",
+      "date": "2026-04-12",
+      "vehicle": "GarbageTruck-05"
+    },
+    {
+      "id": "SS-0159",
+      "lat": 23.177991,
+      "lon": 75.765374,
+      "severity": 6.3,
+      "type": "Alligator Crack",
+      "corridor": "Mahakal Temple Rd",
+      "date": "2026-03-16",
+      "vehicle": "GarbageTruck-01"
+    },
+    {
+      "id": "SS-0160",
+      "lat": 23.166508,
+      "lon": 75.779756,
+      "severity": 6.7,
+      "type": "Alligator Crack",
+      "corridor": "Ring Road South",
+      "date": "2026-03-21",
+      "vehicle": "GarbageTruck-08"
+    },
+    {
+      "id": "SS-0161",
+      "lat": 23.163574,
+      "lon": 75.784512,
+      "severity": 2.7,
+      "type": "Longitudinal Crack",
+      "corridor": "Ring Road South",
+      "date": "2026-03-10",
+      "vehicle": "GarbageTruck-08"
+    },
+    {
+      "id": "SS-0162",
+      "lat": 23.161544,
+      "lon": 75.795852,
+      "severity": 3.9,
+      "type": "Longitudinal Crack",
+      "corridor": "Ring Road South",
+      "date": "2026-04-22",
+      "vehicle": "GarbageTruck-09"
+    },
+    {
+      "id": "SS-0163",
+      "lat": 23.137736,
+      "lon": 75.799615,
+      "severity": 7.1,
+      "type": "Pothole",
+      "corridor": "Ring Road South",
+      "date": "2026-03-27",
+      "vehicle": "GarbageTruck-08"
+    },
+    {
+      "id": "SS-0164",
+      "lat": 23.133785,
+      "lon": 75.771141,
+      "severity": 8.5,
+      "type": "Pothole",
+      "corridor": "Ring Road South",
+      "date": "2026-03-15",
+      "vehicle": "GarbageTruck-08"
+    },
+    {
+      "id": "SS-0165",
+      "lat": 23.177472,
+      "lon": 75.782785,
+      "severity": 8.4,
+      "type": "Pothole",
+      "corridor": "Ring Road South",
+      "date": "2026-05-21",
+      "vehicle": "GarbageTruck-06"
+    },
+    {
+      "id": "SS-0166",
+      "lat": 23.163953,
+      "lon": 75.79358,
+      "severity": 8.8,
+      "type": "Alligator Crack",
+      "corridor": "Ring Road South",
+      "date": "2026-04-03",
+      "vehicle": "GarbageTruck-04"
+    },
+    {
+      "id": "SS-0167",
+      "lat": 23.14482,
+      "lon": 75.777422,
+      "severity": 8.9,
+      "type": "Pothole",
+      "corridor": "Ring Road South",
+      "date": "2026-03-05",
+      "vehicle": "GarbageTruck-10"
+    },
+    {
+      "id": "SS-0168",
+      "lat": 23.161273,
+      "lon": 75.811695,
+      "severity": 4.9,
+      "type": "Longitudinal Crack",
+      "corridor": "Ring Road South",
+      "date": "2026-03-11",
+      "vehicle": "GarbageTruck-03"
+    },
+    {
+      "id": "SS-0169",
+      "lat": 23.158884,
+      "lon": 75.774318,
+      "severity": 9.9,
+      "type": "Pothole",
+      "corridor": "Ring Road South",
+      "date": "2026-03-18",
+      "vehicle": "GarbageTruck-05"
+    },
+    {
+      "id": "SS-0170",
+      "lat": 23.156738,
+      "lon": 75.784476,
+      "severity": 6.4,
+      "type": "Alligator Crack",
+      "corridor": "Ring Road South",
+      "date": "2026-04-26",
+      "vehicle": "GarbageTruck-04"
+    },
+    {
+      "id": "SS-0171",
+      "lat": 23.153185,
+      "lon": 75.788866,
+      "severity": 5.6,
+      "type": "Pothole",
+      "corridor": "Ring Road South",
+      "date": "2026-04-17",
+      "vehicle": "GarbageTruck-02"
+    },
+    {
+      "id": "SS-0172",
+      "lat": 23.154628,
+      "lon": 75.776357,
+      "severity": 4.1,
+      "type": "Transverse Crack",
+      "corridor": "Ring Road South",
+      "date": "2026-03-15",
+      "vehicle": "GarbageTruck-09"
+    },
+    {
+      "id": "SS-0173",
+      "lat": 23.157948,
+      "lon": 75.806318,
+      "severity": 5.6,
+      "type": "Transverse Crack",
+      "corridor": "Ring Road South",
+      "date": "2026-05-17",
+      "vehicle": "GarbageTruck-05"
+    },
+    {
+      "id": "SS-0174",
+      "lat": 23.125124,
+      "lon": 75.798064,
+      "severity": 7.4,
+      "type": "Pothole",
+      "corridor": "Ring Road South",
+      "date": "2026-04-14",
+      "vehicle": "GarbageTruck-02"
+    },
+    {
+      "id": "SS-0175",
+      "lat": 23.128733,
+      "lon": 75.791608,
+      "severity": 5.4,
+      "type": "Pothole",
+      "corridor": "Ring Road South",
+      "date": "2026-05-05",
+      "vehicle": "GarbageTruck-02"
+    },
+    {
+      "id": "SS-0176",
+      "lat": 23.166784,
+      "lon": 75.801962,
+      "severity": 5.6,
+      "type": "Longitudinal Crack",
+      "corridor": "Ring Road South",
+      "date": "2026-04-20",
+      "vehicle": "GarbageTruck-09"
+    },
+    {
+      "id": "SS-0177",
+      "lat": 23.151035,
+      "lon": 75.803679,
+      "severity": 6.0,
+      "type": "Longitudinal Crack",
+      "corridor": "Ring Road South",
+      "date": "2026-03-28",
+      "vehicle": "GarbageTruck-09"
+    },
+    {
+      "id": "SS-0178",
+      "lat": 23.153479,
+      "lon": 75.78179,
+      "severity": 3.1,
+      "type": "Longitudinal Crack",
+      "corridor": "Ring Road South",
+      "date": "2026-04-27",
+      "vehicle": "GarbageTruck-08"
+    },
+    {
+      "id": "SS-0179",
+      "lat": 23.13939,
+      "lon": 75.801533,
+      "severity": 6.6,
+      "type": "Pothole",
+      "corridor": "Ring Road South",
+      "date": "2026-04-12",
+      "vehicle": "GarbageTruck-03"
+    },
+    {
+      "id": "SS-0180",
+      "lat": 23.149739,
+      "lon": 75.77745,
+      "severity": 5.4,
+      "type": "Pothole",
+      "corridor": "Ring Road South",
+      "date": "2026-04-04",
+      "vehicle": "GarbageTruck-06"
+    },
+    {
+      "id": "SS-0181",
+      "lat": 23.16079,
+      "lon": 75.775838,
+      "severity": 4.8,
+      "type": "Longitudinal Crack",
+      "corridor": "Ring Road South",
+      "date": "2026-04-22",
+      "vehicle": "GarbageTruck-02"
+    },
+    {
+      "id": "SS-0182",
+      "lat": 23.134327,
+      "lon": 75.802973,
+      "severity": 7.3,
+      "type": "Alligator Crack",
+      "corridor": "Ring Road South",
+      "date": "2026-05-02",
+      "vehicle": "GarbageTruck-05"
+    },
+    {
+      "id": "SS-0183",
+      "lat": 23.145979,
+      "lon": 75.78341,
+      "severity": 3.1,
+      "type": "Longitudinal Crack",
+      "corridor": "Ring Road South",
+      "date": "2026-05-16",
+      "vehicle": "GarbageTruck-04"
+    },
+    {
+      "id": "SS-0184",
+      "lat": 23.161393,
+      "lon": 75.780876,
+      "severity": 2.6,
+      "type": "Longitudinal Crack",
+      "corridor": "Ring Road South",
+      "date": "2026-04-19",
+      "vehicle": "GarbageTruck-04"
+    },
+    {
+      "id": "SS-0185",
+      "lat": 23.163155,
+      "lon": 75.768304,
+      "severity": 8.5,
+      "type": "Alligator Crack",
+      "corridor": "Ring Road South",
+      "date": "2026-05-22",
+      "vehicle": "GarbageTruck-09"
+    },
+    {
+      "id": "SS-0186",
+      "lat": 23.182232,
+      "lon": 75.794533,
+      "severity": 3.1,
+      "type": "Transverse Crack",
+      "corridor": "Ring Road South",
+      "date": "2026-03-09",
+      "vehicle": "GarbageTruck-05"
+    },
+    {
+      "id": "SS-0187",
+      "lat": 23.16483,
+      "lon": 75.784719,
+      "severity": 5.7,
+      "type": "Pothole",
+      "corridor": "Ring Road South",
+      "date": "2026-05-13",
+      "vehicle": "GarbageTruck-02"
+    },
+    {
+      "id": "SS-0188",
+      "lat": 23.165678,
+      "lon": 75.803221,
+      "severity": 8.7,
+      "type": "Pothole",
+      "corridor": "Ring Road South",
+      "date": "2026-03-13",
+      "vehicle": "GarbageTruck-07"
+    },
+    {
+      "id": "SS-0189",
+      "lat": 23.166882,
+      "lon": 75.814853,
+      "severity": 5.1,
+      "type": "Transverse Crack",
+      "corridor": "University Road",
+      "date": "2026-05-20",
+      "vehicle": "GarbageTruck-02"
+    },
+    {
+      "id": "SS-0190",
+      "lat": 23.172593,
+      "lon": 75.807665,
+      "severity": 2.2,
+      "type": "Transverse Crack",
+      "corridor": "University Road",
+      "date": "2026-03-09",
+      "vehicle": "GarbageTruck-08"
+    },
+    {
+      "id": "SS-0191",
+      "lat": 23.166364,
+      "lon": 75.804113,
+      "severity": 3.4,
+      "type": "Longitudinal Crack",
+      "corridor": "University Road",
+      "date": "2026-05-04",
+      "vehicle": "GarbageTruck-06"
+    },
+    {
+      "id": "SS-0192",
+      "lat": 23.16557,
+      "lon": 75.812087,
+      "severity": 3.9,
+      "type": "Transverse Crack",
+      "corridor": "University Road",
+      "date": "2026-05-10",
+      "vehicle": "GarbageTruck-01"
+    },
+    {
+      "id": "SS-0193",
+      "lat": 23.173189,
+      "lon": 75.827018,
+      "severity": 6.0,
+      "type": "Pothole",
+      "corridor": "University Road",
+      "date": "2026-03-25",
+      "vehicle": "GarbageTruck-03"
+    },
+    {
+      "id": "SS-0194",
+      "lat": 23.170441,
+      "lon": 75.805059,
+      "severity": 7.5,
+      "type": "Pothole",
+      "corridor": "University Road",
+      "date": "2026-04-06",
+      "vehicle": "GarbageTruck-03"
+    },
+    {
+      "id": "SS-0195",
+      "lat": 23.16317,
+      "lon": 75.816397,
+      "severity": 6.2,
+      "type": "Longitudinal Crack",
+      "corridor": "University Road",
+      "date": "2026-04-03",
+      "vehicle": "GarbageTruck-07"
+    },
+    {
+      "id": "SS-0196",
+      "lat": 23.171139,
+      "lon": 75.808653,
+      "severity": 9.6,
+      "type": "Pothole",
+      "corridor": "University Road",
+      "date": "2026-04-19",
+      "vehicle": "GarbageTruck-07"
+    },
+    {
+      "id": "SS-0197",
+      "lat": 23.161551,
+      "lon": 75.805802,
+      "severity": 2.6,
+      "type": "Longitudinal Crack",
+      "corridor": "University Road",
+      "date": "2026-03-11",
+      "vehicle": "GarbageTruck-03"
+    },
+    {
+      "id": "SS-0198",
+      "lat": 23.172638,
+      "lon": 75.802104,
+      "severity": 5.7,
+      "type": "Transverse Crack",
+      "corridor": "University Road",
+      "date": "2026-03-14",
+      "vehicle": "GarbageTruck-02"
+    },
+    {
+      "id": "SS-0199",
+      "lat": 23.170336,
+      "lon": 75.817993,
+      "severity": 4.0,
+      "type": "Longitudinal Crack",
+      "corridor": "University Road",
+      "date": "2026-04-24",
+      "vehicle": "GarbageTruck-06"
+    },
+    {
+      "id": "SS-0200",
+      "lat": 23.171853,
+      "lon": 75.820261,
+      "severity": 8.2,
+      "type": "Pothole",
+      "corridor": "University Road",
+      "date": "2026-05-17",
+      "vehicle": "GarbageTruck-04"
+    },
+    {
+      "id": "SS-0201",
+      "lat": 23.174619,
+      "lon": 75.8069,
+      "severity": 5.3,
+      "type": "Transverse Crack",
+      "corridor": "University Road",
+      "date": "2026-03-08",
+      "vehicle": "GarbageTruck-02"
+    },
+    {
+      "id": "SS-0202",
+      "lat": 23.172409,
+      "lon": 75.813165,
+      "severity": 5.8,
+      "type": "Longitudinal Crack",
+      "corridor": "University Road",
+      "date": "2026-05-03",
+      "vehicle": "GarbageTruck-03"
+    },
+    {
+      "id": "SS-0203",
+      "lat": 23.178045,
+      "lon": 75.807458,
+      "severity": 4.8,
+      "type": "Longitudinal Crack",
+      "corridor": "University Road",
+      "date": "2026-05-15",
+      "vehicle": "GarbageTruck-10"
+    },
+    {
+      "id": "SS-0204",
+      "lat": 23.159032,
+      "lon": 75.796222,
+      "severity": 9.9,
+      "type": "Pothole",
+      "corridor": "University Road",
+      "date": "2026-04-05",
+      "vehicle": "GarbageTruck-08"
+    },
+    {
+      "id": "SS-0205",
+      "lat": 23.175896,
+      "lon": 75.812697,
+      "severity": 6.4,
+      "type": "Pothole",
+      "corridor": "University Road",
+      "date": "2026-03-12",
+      "vehicle": "GarbageTruck-09"
+    },
+    {
+      "id": "SS-0206",
+      "lat": 23.175966,
+      "lon": 75.813002,
+      "severity": 6.8,
+      "type": "Pothole",
+      "corridor": "University Road",
+      "date": "2026-04-03",
+      "vehicle": "GarbageTruck-02"
+    },
+    {
+      "id": "SS-0207",
+      "lat": 23.164647,
+      "lon": 75.80528,
+      "severity": 4.8,
+      "type": "Longitudinal Crack",
+      "corridor": "University Road",
+      "date": "2026-05-02",
+      "vehicle": "GarbageTruck-08"
+    },
+    {
+      "id": "SS-0208",
+      "lat": 23.176572,
+      "lon": 75.805774,
+      "severity": 8.0,
+      "type": "Pothole",
+      "corridor": "University Road",
+      "date": "2026-05-05",
+      "vehicle": "GarbageTruck-01"
+    },
+    {
+      "id": "SS-0209",
+      "lat": 23.159573,
+      "lon": 75.81335,
+      "severity": 5.9,
+      "type": "Transverse Crack",
+      "corridor": "University Road",
+      "date": "2026-03-17",
+      "vehicle": "GarbageTruck-03"
+    },
+    {
+      "id": "SS-0210",
+      "lat": 23.179126,
+      "lon": 75.812291,
+      "severity": 7.6,
+      "type": "Alligator Crack",
+      "corridor": "University Road",
+      "date": "2026-05-06",
+      "vehicle": "GarbageTruck-06"
+    },
+    {
+      "id": "SS-0211",
+      "lat": 23.166587,
+      "lon": 75.813506,
+      "severity": 3.7,
+      "type": "Longitudinal Crack",
+      "corridor": "University Road",
+      "date": "2026-05-02",
+      "vehicle": "GarbageTruck-06"
+    },
+    {
+      "id": "SS-0212",
+      "lat": 23.172448,
+      "lon": 75.811076,
+      "severity": 3.1,
+      "type": "Transverse Crack",
+      "corridor": "University Road",
+      "date": "2026-05-28",
+      "vehicle": "GarbageTruck-10"
+    },
+    {
+      "id": "SS-0213",
+      "lat": 23.173779,
+      "lon": 75.806138,
+      "severity": 2.7,
+      "type": "Longitudinal Crack",
+      "corridor": "University Road",
+      "date": "2026-04-10",
+      "vehicle": "GarbageTruck-07"
+    },
+    {
+      "id": "SS-0214",
+      "lat": 23.176497,
+      "lon": 75.816828,
+      "severity": 7.8,
+      "type": "Pothole",
+      "corridor": "University Road",
+      "date": "2026-05-26",
+      "vehicle": "GarbageTruck-06"
+    },
+    {
+      "id": "SS-0215",
+      "lat": 23.173455,
+      "lon": 75.801759,
+      "severity": 5.0,
+      "type": "Transverse Crack",
+      "corridor": "University Road",
+      "date": "2026-05-17",
+      "vehicle": "GarbageTruck-02"
+    }
+  ]
+}

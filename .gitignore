@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+runs/
+output/
+output_detected.jpg
+*.pt
+!ai_engine/models/best.pt
+.env
+*.log
