@@ -1,0 +1,13 @@
+# Track 1: AI Engine
+ultralytics==8.2.28
+opencv-python-headless==4.9.0.80
+
+# Track 2: Demo UI
+gradio==4.36.1
+
+# Track 3: Dashboard Map
+folium==0.16.0
+pandas==2.2.2
+
+# Utilities
+python-dotenv
